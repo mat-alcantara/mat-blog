@@ -2,6 +2,10 @@
 
 MatBlog is a blog template created by me to share my knowledge. It's a blog with focus in programming, stoicism, brazilian jiu jitsu and other life things.
 
+## Built with
+
+- Next.js
+
 ## Prerequisites
 
 You need to install npm to run this app
@@ -15,7 +19,7 @@ npm install npm@latest -g
 Clone the repo
 
 ```bash
-git clone
+git clone https://github.com/mat-alcantara/mat-blog.git
 ```
 
 Go to the folder
